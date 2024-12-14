@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/fan_xu_individual_2/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/fan_xu_individual_2/actions/workflows/CI.yml)
+[![CI](https://github.com/nogibjj/fan_xu_individual_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/fan_xu_individual_2/actions/workflows/cicd.yml)
 
 # Imdividual Project #2
 
@@ -65,4 +65,4 @@ The CLI allows you to create, load, query, and delete data loaded from historica
 
 # Binary Download Link
 
-https://github.com/nogibjj/fan_xu_individual_2/actions/runs/11545672316/artifacts/2110062102
+https://github.com/nogibjj/fan_xu_individual_2/actions/runs/12330419995/artifacts/2321140322
