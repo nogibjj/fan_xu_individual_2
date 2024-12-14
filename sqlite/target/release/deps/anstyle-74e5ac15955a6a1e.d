@@ -1,0 +1,12 @@
+/Users/fanxu/data_engineering/fan_xu_individual_2/sqlite/target/release/deps/libanstyle-74e5ac15955a6a1e.rmeta: /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs
+
+/Users/fanxu/data_engineering/fan_xu_individual_2/sqlite/target/release/deps/libanstyle-74e5ac15955a6a1e.rlib: /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs
+
+/Users/fanxu/data_engineering/fan_xu_individual_2/sqlite/target/release/deps/anstyle-74e5ac15955a6a1e.d: /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs /Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs
+
+/Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs:
+/Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs:
+/Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs:
+/Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs:
+/Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs:
+/Users/fanxu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs:
